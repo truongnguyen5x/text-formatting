@@ -1,0 +1,34 @@
+# depslib dependency file v1.0
+1511013053 source:d:\project\cpp\pt04textformatting\textformat codeblock\input\input.c
+	"..\header\header.h"
+
+1511016324 d:\project\cpp\pt04textformatting\textformat codeblock\header\header.h
+	<stdio.h>
+	<conio.h>
+	<string.h>
+	<stdlib.h>
+
+1511013060 source:d:\project\cpp\pt04textformatting\textformat codeblock\input\setup.c
+	"..\header\header.h"
+
+1511013356 source:d:\project\cpp\pt04textformatting\textformat codeblock\input\variable.c
+	"..\header\header.h"
+
+1511013115 source:d:\project\cpp\pt04textformatting\textformat codeblock\main\funtion.c
+	"..\header\header.h"
+
+1511016245 source:d:\project\cpp\pt04textformatting\textformat codeblock\main\main.c
+	"..\header\header.h"
+
+1511013122 source:d:\project\cpp\pt04textformatting\textformat codeblock\main\menu.c
+	"..\header\header.h"
+
+1511013128 source:d:\project\cpp\pt04textformatting\textformat codeblock\main\readword.c
+	"..\header\header.h"
+
+1511013131 source:d:\project\cpp\pt04textformatting\textformat codeblock\main\writeline.c
+	"..\header\header.h"
+
+1511013139 source:d:\project\cpp\pt04textformatting\textformat codeblock\output\output.c
+	"..\header\header.h"
+
